@@ -23,5 +23,5 @@
 
 ## 🚀 About Me:
 - 🎓 B.Tech Student
-- 💻 Learning DSA + Development
+- 💻 Learning DSA with JAVA  + Development
 - 🔥 Goal: Placement in top company
