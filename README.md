@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pathan
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 
