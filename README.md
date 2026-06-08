@@ -24,5 +24,5 @@ INSPIRE TO DATA ANALYST
 
 ## 🚀 About Me:
 - 🎓 B.Tech Student
-- 💻 Learning DSA with JAVA  +  backend Development + devops engineer
+- 💻 Learning DSA with JAVA  + Data Analytics + devops engineer
 - 🔥 Goal: Placement in top company
