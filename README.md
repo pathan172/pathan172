@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Pathan
+INSPIRE TO DATA ANALYST
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
