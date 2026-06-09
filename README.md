@@ -4,7 +4,7 @@ INSPIRE TO DATA ANALYST
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
-![sql](https://img.shields.io/badge/sql-green?style=for-the-badge&logo=sql)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
 ---
 
 ## 📊 GitHub Stats:
