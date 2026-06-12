@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pathan
+# 👋 Hi, I'm MD ANZAR KHAN
 INSPIRE TO DATA ANALYST
 
 ## 💻 Tech Stack:
