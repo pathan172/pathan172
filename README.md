@@ -17,10 +17,7 @@ INSPIRE TO DATA ANALYST
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathan172&theme=react-dark" />
 
-## 🔥 Streak:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=radical)
 
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pathan172&theme=onedark)
