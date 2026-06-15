@@ -1,6 +1,10 @@
 # 👋 Hi, I'm MD ANZAR KHAN
 INSPIRE TO DATA ANALYST
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Open+Source+Contributor&center=true&width=500&height=50">
+</p>
+
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
