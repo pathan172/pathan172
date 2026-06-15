@@ -17,8 +17,8 @@ INSPIRE TO DATA ANALYST
 
 ---
 
-## 🏆 Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=pathan172)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pathan172&theme=onedark)
 
 ---
 
