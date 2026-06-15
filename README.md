@@ -7,10 +7,15 @@ INSPIRE TO DATA ANALYST
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
 ---
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=pathan172&show_icons=true&theme=radical)
+# 📊 GitHub Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=pathan172&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathan172&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathan172&theme=react-dark" />
 
 ## 🔥 Streak:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=radical)
