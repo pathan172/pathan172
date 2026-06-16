@@ -10,6 +10,26 @@ INSPIRE TO DATA ANALYST
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anzar-khan-a40906279" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:anzark2914@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+## 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Kallu_coder/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Kallu__coder-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
 # 📊 GitHub Stats
 
