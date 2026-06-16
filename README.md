@@ -43,9 +43,14 @@ INSPIRE TO DATA ANALYST
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pathan172&theme=onedark)
+## 🎯 Current Focus
 
+- 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Power BI
+- 📉 Excel
+- 🚀 Open Source Learning
 ---
 
 ## 🚀 About Me:
