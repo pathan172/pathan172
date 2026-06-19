@@ -33,7 +33,7 @@ INSPIRE TO DATA ANALYST
 
 # 📊 GitHub Stats
 
-p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pathan172&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" height="170"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
