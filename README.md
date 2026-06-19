@@ -33,14 +33,19 @@ INSPIRE TO DATA ANALYST
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pathan172&show_icons=true&theme=tokyonight" />
+p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathan172&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathan172&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathan172&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathan172&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" height="150"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathan172&theme=react-dark" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathan172&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true"/>
+</p>
 
 
 ## 🎯 Current Focus
