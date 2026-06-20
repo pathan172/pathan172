@@ -52,7 +52,7 @@ INSPIRE TO DATA ANALYST
 
 - 📊 Data Analytics
 - 🐍 Python
-- 🗄️ SQL
+- 🗄️ POSTGRESQL
 - 📈 Power BI
 - 📉 Excel
 - 🚀 Open Source Learning
