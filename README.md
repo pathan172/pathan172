@@ -2,7 +2,7 @@
 INSPIRE TO DATA ANALYST
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Open+Source+Contributor&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+POSTGRESQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
 
 ## 💻 Tech Stack:
