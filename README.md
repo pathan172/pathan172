@@ -6,7 +6,6 @@ INSPIRE TO DATA ANALYST
 </p>
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
 ---
