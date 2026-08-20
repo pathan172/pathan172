@@ -7,9 +7,9 @@ INSPIRE TO DATA ANALYST
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
-![Power BI](https://img.shields.io/badge/Power BI-pink?style=for-the-badge&logo=Power BI)
----
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-green?style=for-the-badge&logo=POSTGRESQL)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
 ## 🌐 Connect With Me
 
 <p align="center">
