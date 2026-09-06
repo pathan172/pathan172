@@ -13,20 +13,21 @@
 ### 🐍 Programming Language
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & SQL
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
@@ -34,7 +35,8 @@
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### 🧩 Core Skills
@@ -55,17 +57,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/anzar-khan-a40906279" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-
-    
-
+    <img src="https://img.shields.io/badge/LinkedIn-MD%20Anzar%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:anzark2914@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-anzark2914%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -74,7 +71,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Kallu_coder/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Kallu__coder-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Kallu__coder-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -109,7 +106,7 @@
 * 🧩 Data Structures & Algorithms
 * 🚀 Building Real-World Data Projects
 * 💻 Solving Problems on LeetCode
-* 🌱 Exploring DevOps & Open Source
+* 🌱 Exploring Open Source
 
 ---
 
@@ -120,11 +117,11 @@
 * 🐍 Learning and practicing **Python for Data Analytics**
 * 🗄️ Working with **SQL & PostgreSQL**
 * 📈 Learning **Power BI** for data visualization and business intelligence
-* 📉 Improving my **Excel** skills for data analysis
+* 📉 Improving my **Microsoft Excel** skills for data analysis
 * 🐼 Exploring **Pandas & NumPy**
 * 🧩 Practicing **Data Structures & Algorithms with Python**
-* 🚀 Building practical and real-world projects
-* 🌱 Exploring **DevOps and Open Source**
+* 🚀 Building practical and real-world data projects
+* 🌱 Exploring **Open Source**
 * 🔥 Preparing for **placements and technical interviews**
 
 ---
@@ -139,7 +136,6 @@ Power BI               ████████████░░░░░░░
 Excel                  █████████████░░░░░░░   Learning
 DSA                    ███████████░░░░░░░░░   Practicing
 Data Analytics         ███████████████░░░░░   Learning & Building
-DevOps                 ██████░░░░░░░░░░░░░░   Exploring
 ```
 
 ---
