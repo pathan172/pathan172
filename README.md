@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD ANZAR KHAN
 
-## 🚀 Aspiring Data Analyst
+## 🚀 Aspiring Data Analyst & Python Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+PostgreSQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Data+Driven+Problem+Solver&center=true&width=550&height=50">
